@@ -1,7 +1,7 @@
-url: https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=2
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-11T07:54:18.375Z
+url: https://$API_SERVER/uptime/rpi?id=2
+status: up
+code: 200
+responseTime: 514
+lastUpdated: 2023-12-11T07:59:01.296Z
 startTime: 2023-12-11T07:18:11.249Z
 generator: Upptime <https://github.com/upptime/upptime>
