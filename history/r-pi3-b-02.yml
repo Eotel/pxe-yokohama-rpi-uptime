@@ -2,6 +2,11 @@ url: https:$API_SERVER/uptime/rpi?id=2
 status: down
 code: 0
 responseTime: 0
+<<<<<<< HEAD
 lastUpdated: 2023-12-11T07:24:51.868Z
 startTime: 2023-12-11T07:24:51.864Z
+=======
+lastUpdated: 2023-12-11T07:25:07.869Z
+startTime: 2023-12-11T07:18:11.249Z
+>>>>>>> 0.1.2
 generator: Upptime <https://github.com/upptime/upptime>
