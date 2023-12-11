@@ -1,38 +1,162 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "RPi3B+ 01",
+    "url": "https:$API_SEVER/uptime/rpi?id=1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-01",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
-    "dailyMinutesDown": {}
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
+    "name": "RPi3B+ 02",
+    "url": "https:$API_SEVER/uptime/rpi?id=2",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-02",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
-    "dailyMinutesDown": {}
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
+  },
+  {
+    "name": "RPi3B+ 03",
+    "url": "https:$API_SEVER/uptime/rpi?id=3",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-03",
+    "status": "up",
+    "uptime": "4.13%",
+    "uptimeDay": "4.13%",
+    "uptimeWeek": "4.13%",
+    "uptimeMonth": "4.13%",
+    "uptimeYear": "4.13%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
+  },
+  {
+    "name": "RPi3B+ 04",
+    "url": "https:$API_SEVER/uptime/rpi?id=4",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-04",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
+  },
+  {
+    "name": "RPi3B+ 05",
+    "url": "https:$API_SEVER/uptime/rpi?id=5",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-05",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
+  },
+  {
+    "name": "RPi3B+ 06",
+    "url": "https:$API_SEVER/uptime/rpi?id=6",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-06",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
+  },
+  {
+    "name": "RPi3B+ 07",
+    "url": "https:$API_SEVER/uptime/rpi?id=7",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-07",
+    "status": "up",
+    "uptime": "1.56%",
+    "uptimeDay": "1.56%",
+    "uptimeWeek": "1.56%",
+    "uptimeMonth": "1.56%",
+    "uptimeYear": "1.56%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
+  },
+  {
+    "name": "RPi3B+ 08",
+    "url": "https:$API_SEVER/uptime/rpi?id=8",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "r-pi3-b-08",
+    "status": "up",
+    "uptime": "4.56%",
+    "uptimeDay": "4.56%",
+    "uptimeWeek": "4.56%",
+    "uptimeMonth": "4.56%",
+    "uptimeYear": "4.56%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-12-11": 0
+    }
   }
 ]
