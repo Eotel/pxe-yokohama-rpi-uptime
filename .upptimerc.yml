@@ -3,10 +3,22 @@ owner: Eotel # Your GitHub organization or username, where this repository lives
 repo: pxe-yokohama-rpi-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: "RPi3B+ 01"
+    url: https:$API_SEVER/uptime/rpi?id=1
+  - name: "RPi3B+ 02"
+    url: https:$API_SEVER/uptime/rpi?id=2
+  - name: "RPi3B+ 03"
+    url: https:$API_SEVER/uptime/rpi?id=3
+  - name: "RPi3B+ 04"
+    url: https:$API_SEVER/uptime/rpi?id=4
+  - name: "RPi3B+ 05"
+    url: https:$API_SEVER/uptime/rpi?id=5
+  - name: "RPi3B+ 06"
+    url: https:$API_SEVER/uptime/rpi?id=6
+  - name: "RPi3B+ 07"
+    url: https:$API_SEVER/uptime/rpi?id=7
+  - name: "RPi3B+ 08"
+    url: https:$API_SEVER/uptime/rpi?id=8
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: pxe-yokohama-rpi-uptime
   introTitle: "Check RasPi Status"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/eotel/pxe-yokohama-rpi-uptime).
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/eotel/pxe-yokohama-rpi-uptime).
   navbar:
     - title: Status
       href: /

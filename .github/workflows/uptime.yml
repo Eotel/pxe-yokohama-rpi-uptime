@@ -24,6 +24,12 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+      - name: Tailscale
+        uses: tailscale/github-action@v2
+        with:
+          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
+          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
+          tags: tag:pxe
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.33.0
         with:
