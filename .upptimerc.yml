@@ -4,28 +4,28 @@ repo: pxe-yokohama-rpi-uptime # The name of this repository
 
 sites:
   - name: "RPi3B+ 01"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=1"
+    url: "https://$API_SERVER/uptime/rpi?id=1"
     method: GET
   - name: "RPi3B+ 02"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=2"
+    url: "https://$API_SERVER/uptime/rpi?id=2"
     method: GET
   - name: "RPi3B+ 03"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=3"
+    url: "https://$API_SERVER/uptime/rpi?id=3"
     method: GET
   - name: "RPi3B+ 04"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=4"
+    url: "https://$API_SERVER/uptime/rpi?id=4"
     method: GET
   - name: "RPi3B+ 05"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=5"
+    url: "https://$API_SERVER/uptime/rpi?id=5"
     method: GET
   - name: "RPi3B+ 06"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=6"
+    url: "https://$API_SERVER/uptime/rpi?id=6"
     method: GET
   - name: "RPi3B+ 07"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=7"
+    url: "https://$API_SERVER/uptime/rpi?id=7"
     method: GET
   - name: "RPi3B+ 08"
-    url: "https:pxe-uptime-api-ct.turkey-python.ts.net/uptime/rpi?id=8"
+    url: "https://$API_SERVER/uptime/rpi?id=8"
     method: GET
 
 status-website:
