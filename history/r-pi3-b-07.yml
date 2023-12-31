@@ -1,7 +1,7 @@
 url: https://$API_SERVER/uptime/rpi?id=7
-status: down
-code: 404
-responseTime: 2296
-lastUpdated: 2023-12-30T23:03:53.955Z
+status: up
+code: 200
+responseTime: 472
+lastUpdated: 2023-12-31T06:42:49.992Z
 startTime: 2023-12-11T07:18:13.200Z
 generator: Upptime <https://github.com/upptime/upptime>
